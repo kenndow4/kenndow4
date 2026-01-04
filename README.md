@@ -1,86 +1,29 @@
-# Hi 👋, I'm Kenedy Paulino
+# Hi, I'm Kenedy Paulino 👋
 
-## 🚀 About Me
+Full Stack Developer passionate about building **real-time collaboration tools** and **usable applications** that solve real problems. Coding since 2021.
 
-I'm a **Software Developer** who started programming in **2021**. Since then, I've worked in **team-based, large-scale projects**, especially **real-time collaboration applications** where performance, scalability, and clean architecture really matter.
+## 🚀 What I Do
 
-I enjoy building **backend systems**, **APIs**, and **full‑stack applications**, and I’m especially interested in:
+I create practical solutions focusing on team collaboration and productivity. From project management tools to voice transcription apps with OpenAI's Whisper API, I enjoy bringing ideas to life and working with talented teams on impactful projects.
 
-* Real-time systems (WebSockets, events, collaboration tools)
-* Clean architecture & scalable backends
-* Modern frontend experiences with React & Next.js
+**Recent work:** Real-time collaboration platforms, voice-to-text applications with translation, and productivity tools with features like audio/image/PDF processing.
 
-I’m comfortable working in **collaborative environments**, following best practices like code reviews, Git workflows, and agile development.
+## 💻 Tech Stack
 
----
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express, NestJS, Python  
+**Database:** MongoDB, Mongoose, MySQL  
+**Tools:** Docker, Git
 
-## 🛠️ Tech Stack
+## 🎯 My Approach
 
-### 💻 Languages
+I believe great software comes from great teams with great ideas. I focus on building tools people actually want to use, collaborating effectively, and constantly improving solutions based on real user needs.
 
-* JavaScript (JS)
-* TypeScript (TS)
-* Python
+## 📫 Let's Connect
 
-### 🧠 Backend
-
-* Node.js
-* Express.js
-* NestJS
-* REST APIs
-* WebSockets / Real‑time communication
-
-### 🎨 Frontend
-
-* React
-* Next.js
-* Tailwind CSS
-
-### 🗄️ Databases
-
-* MongoDB (Mongoose)
-* MySQL
-
-### ⚙️ DevOps & Tools
-
-* Docker
-* Git & GitHub
-
----
-
-## 🧩 What I Work On
-
-* 🔄 Real-time collaborative applications
-* 🧑‍🤝‍🧑 Team productivity tools
-* 📦 Scalable backend architectures
-* 🌐 Full‑stack web applications
-
----
-
-## 🌱 Currently Learning
-
-* Advanced backend architecture patterns
-* Cloud & DevOps concepts
-* Improving performance in real-time systems
-
----
-
-## 🤝 Soft Skills
-
-* Team collaboration
-* Clear communication
-* Problem solving
-* Code reviews & mentoring
-
----
-
-## 📫 Connect With Me
-
-* GitHub: **@kenedypaulino**
-* LinkedIn: *(add your link here)*
-* Twitter / X: *(optional)*
-
----
+- LinkedIn: [linkedin.com/in/kenedypaulino](https://linkedin.com/in/kenedypaulino)
+- Email: your.email@example.com
+- Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ## 📊 GitHub Stats
 
