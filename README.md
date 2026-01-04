@@ -2,47 +2,63 @@
 
 Full Stack Developer passionate about building **real-time collaboration tools** and **usable applications** that solve real problems. Coding since 2021.
 
-## 🚀 What I Do
+## 🚀 About Me
 
-I create practical solutions focusing on team collaboration and productivity. From project management tools to voice transcription apps with OpenAI's Whisper API, I enjoy bringing ideas to life and working with talented teams on impactful projects.
+I create practical solutions focusing on team collaboration and productivity. I enjoy bringing ideas to life and working with talented teams on impactful projects.
 
-**Recent work:** Real-time collaboration platforms, voice-to-text applications with translation, and productivity tools with features like audio/image/PDF processing.
+**What I've built:**
+- Real-time collaboration platforms (project management, team communication)
+- Voice transcription & translation app using OpenAI's Whisper API
+- Productivity tools with audio, image, PDF, and document processing
+- Scalable applications focused on user experience
 
-## 💻 Tech Stack
+I believe great software comes from great teams with great ideas. I focus on building tools people actually want to use and constantly improving solutions based on real user needs.
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Node.js, Express, NestJS, Python  
-**Database:** MongoDB, Mongoose, MySQL  
-**Tools:** Docker, Git
+## 💻 My Skills Include
 
-## 🎯 My Approach
+<h4>Languages & Frameworks</h4>
+<span>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</span>
 
-I believe great software comes from great teams with great ideas. I focus on building tools people actually want to use, collaborating effectively, and constantly improving solutions based on real user needs.
+<h4>Frontend Development</h4>
+<span>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</span>
 
-## 📫 Let's Connect
+<h4>Backend Development</h4>
+<span>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+</span>
 
-- LinkedIn: [linkedin.com/in/kenedypaulino](https://linkedin.com/in/kenedypaulino)
-- Email: your.email@example.com
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+<h4>Databases & Tools</h4>
+<span>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</span>
 
-## 📊 GitHub Stats
+## 📫 Connect With Me
 
-> *(You can add GitHub stats cards here later)*
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenedypaulino&show_icons=true&theme=tokyonight)
-```
-
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenedypaulino&layout=compact&theme=tokyonight)
-```
+<span>
+  <a href="https://www.linkedin.com/in/kenedypaulino/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</span>
 
 ---
 
-## ✨ Fun Fact
-
-I love building things that **people can use together in real time**.
-
----
-
-⭐️ *Feel free to explore my repositories and connect with me!*
+💡 *Always open to collaborate on innovative projects and connect with fellow developers!*
