@@ -4,7 +4,7 @@ Full Stack Developer passionate about building **real-time collaboration tools**
 
 ## 🚀 About Me
 
-I create practical solutions focusing on team collaboration and productivity. I enjoy bringing ideas to life and working with talented teams on impactful projects.
+I create practical solutions focusing on team collaboration and productivity. I love learning new technologies, sharing knowledge, and growing alongside other developers.
 
 **What I've built:**
 - Real-time collaboration platforms (project management, team communication)
@@ -12,7 +12,9 @@ I create practical solutions focusing on team collaboration and productivity. I 
 - Productivity tools with audio, image, PDF, and document processing
 - Scalable applications focused on user experience
 
-I believe great software comes from great teams with great ideas. I focus on building tools people actually want to use and constantly improving solutions based on real user needs.
+Currently exploring and learning about **cloud technologies** and cloud architecture to expand my skill set.
+
+I believe great software comes from great teams with great ideas. I focus on building usable tools, collaborating effectively, and learning from every project and every person I work with.
 
 ## 💻 My Skills Include
 
@@ -48,14 +50,11 @@ I believe great software comes from great teams with great ideas. I focus on bui
 ## 📫 Connect With Me
 
 <span>
-  <a href="https://www.linkedin.com/in/kenedypaulino/">
+  <a href="https://www.linkedin.com/in/kenedy-paulino-68a39b216/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:jimenezkenedy57@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </span>
 
