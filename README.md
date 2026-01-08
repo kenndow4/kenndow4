@@ -37,6 +37,7 @@ I believe great software comes from great teams with great ideas. I focus on bui
 <span>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </span>
 
 <h4>Databases & Tools</h4>
