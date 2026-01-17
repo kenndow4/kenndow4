@@ -12,7 +12,7 @@ I create practical solutions focusing on team collaboration and productivity. I 
 - Productivity tools with audio, image, PDF, and document processing
 - Scalable applications focused on user experience
 
-Currently exploring and learning about **cloud technologies** and cloud architecture to expand my skill set.
+Currently exploring and learning about **cloud technologies** and cloud architecture to expand my skill set. I've also been working with **machine learning** to integrate AI capabilities into web applications, including sentiment analysis and data processing features.
 
 I believe great software comes from great teams with great ideas. I focus on building usable tools, collaborating effectively, and learning from every project and every person I work with.
 
@@ -44,7 +44,6 @@ I believe great software comes from great teams with great ideas. I focus on bui
 <span>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 </span>
 
 <h4>Databases & Tools</h4>
